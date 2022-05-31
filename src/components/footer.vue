@@ -34,7 +34,7 @@
         
     </div>
 
-   <RouterLink to="/mentionslegales"> <p class="text-white text-center"> © 2022 Electro Moods Festival | Politique de confidentialité | Politique de cookies</p> </RouterLink>
+   <RouterLink to="/mentionslegales"> <p class="text-white text-center"> © 2022 Electro Moods Festival | Mentions Légales | Voir les CGV</p> </RouterLink>
 </div>
 </template>
 
