@@ -5,13 +5,13 @@
         <RouterLink to="/"> <logo class="scale-75 mr-auto"/> </RouterLink>
         <titre class="ml-auto mt-10 my-6"/>
         <div class="flex ml-auto mr-auto gap-14  my-auto">
-        <RouterLink to="/programmation"> <p class="lg:text-lg font-big-shoulders-text text-base text-center text-white hover:text-white ">LE FESTIVAL</p> </RouterLink>
+        <RouterLink to="/festival"> <p class="lg:text-lg font-big-shoulders-text text-base text-center text-white hover:text-white ">LE FESTIVAL</p> </RouterLink>
         <p class="text-white text-3xl"> </p>
-        <RouterLink to="/lesartistes"> <p class="lg:text-lg font-big-shoulders-text text-base text-center text-white hover:text-white ">PROGRAMMATION</p> </RouterLink>
+        <RouterLink to="/programmation"> <p class="lg:text-lg font-big-shoulders-text text-base text-center text-white hover:text-white ">PROGRAMMATION</p> </RouterLink>
          <p class="text-white text-3xl"> </p>
         <RouterLink to="/lesartistes"> <p class="lg:text-lg font-big-shoulders-text text-base text-center text-white hover:text-white ">LES ARTISTES</p> </RouterLink>
          <p class="text-white text-3xl"> </p>
-        <RouterLink to="/lesartistes"> <p class="lg:text-lg font-big-shoulders-text text-base text-center text-white hover:text-white ">RESERVER MA PLACE</p> </RouterLink>
+        <RouterLink to="/reserver"> <p class="lg:text-lg font-big-shoulders-text text-base text-center text-white hover:text-white ">RESERVER MA PLACE</p> </RouterLink>
         </div>
         
     </div>
